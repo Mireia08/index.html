@@ -11,7 +11,7 @@
         <h1>Habit Tracker</h1>
         <p>Track your habits visually and efficiently!</p>
     </header>
-  
+    
     <main>
         <section id="tracker">
             <h2>Your Habits</h2>
@@ -35,4 +35,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
